@@ -113,10 +113,12 @@ for company in company_list:
   
 ---
 
-License
+## License
 
-MIT License © Amir Radnia
+MIT License © 2025 Amir Radnia
 
-Contact
+---
+
+## Contact
 
 For issues or questions, feel free to open an issue or contact me at amir.radnia99@gmail.com
