@@ -99,17 +99,6 @@ A lightweight and efficient Python-based web scraping tool for extracting news h
 - Headless mode can be enabled for faster scraping and less resource usage.
 - Respect website scraping policies and **Terms of Service**.
 - Adjust `max_companies` and `max_pages` for testing or full dataset scraping.
-
----
-
-## Example
-
-```bash
-# Example snippet from scraper.py
-company_list = ["Tesla", "Microsoft", "Google"]
-for company in company_list:
-    news_text = get_company_news(driver, company, max_pages=3)
-    print(news_text[:500])  # Preview first 500 characters
   
 ---
 
