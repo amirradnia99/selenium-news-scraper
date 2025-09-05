@@ -66,14 +66,14 @@ A lightweight and efficient Python-based web scraping tool for extracting news h
 | Google      |
 
 2. **Run the scraper**:
-```bash
+  ```bash
 python scraper.py
 
 ---
 
 ## Configuration
 
-**Update parameters in the main() function inside scraper.py to customize behavior:
+1. **Update parameters** in the main() function inside scraper.py to customize behavior:
 
 | Company   | Published News |
 |-----------|----------------|
